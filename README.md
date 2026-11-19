@@ -4,7 +4,7 @@
 
 ### Hey, I'm Matieee.
 
-Software engineer from the Philippines. I build web apps that feel designed — clean interfaces on top of systems that hold up.
+Software engineer from the Philippines. I build web apps that feel designed clean interfaces on top of systems that hold up.
 
 I work across the stack, and I do the design in between.
 
